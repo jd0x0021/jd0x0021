@@ -16,6 +16,7 @@
 
 ## 👨‍💻 Currently Learning
 <a href="#">
+  <img alt='ASP.NET' src="https://img.shields.io/badge/ASPNET-ASPNET?style=for-the-badge&logo=.net&color=5C2D91"/> 
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   <img alt="SASS / SCSS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
