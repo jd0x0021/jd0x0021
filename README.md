@@ -12,7 +12,8 @@
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
 </a>
 
-<br>
+<br/>
+<br/>
 
 ## 👨‍💻 Currently Learning
 <a href="#">
