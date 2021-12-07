@@ -34,4 +34,14 @@
   <img alt="SASS / SCSS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </a>
 
+<br/>
+<br/>
+
+## 🧠⁺ Technologies to Learn
+<a href="#">
+  <img alt="Blazor" src="https://img.shields.io/badge/Blazor-582C8B?style=for-the-badge&logo=blazor&logoColor=white"/>
+  <img alt='.NET MAUI' src="https://img.shields.io/badge/.NET%20MAUI-2D4A90?style=for-the-badge&logo=.net"/> 
+</a>
+
+
 <!-- Shields Found Here: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
