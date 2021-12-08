@@ -24,7 +24,7 @@
 <br/>
 <br/>
 
-## 👨‍💻 Currently Learning
+## 🧠⁺⁺ Currently Learning
 <a href="#">
   <img alt='ASP.NET' src="https://img.shields.io/badge/ASPNET-ASPNET?style=for-the-badge&logo=.net&color=5C2D91"/> 
   <img alt='Entity Framework Core' src="https://img.shields.io/badge/-Entity_Framework_Core-fff?style=for-the-badge&logo=Microsoft&logoColor=0078D7&color=6A4097"/> 
@@ -37,7 +37,7 @@
 <br/>
 <br/>
 
-## 🧠⁺ Technologies to Learn
+## 👀 Technologies to Learn
 <a href="#">
   <img alt="Blazor" src="https://img.shields.io/badge/Blazor-582C8B?style=for-the-badge&logo=blazor&logoColor=white"/>
   <img alt='.NET MAUI' src="https://img.shields.io/badge/.NET%20MAUI-2D4A90?style=for-the-badge&logo=.net"/> 
