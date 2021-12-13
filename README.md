@@ -47,7 +47,7 @@
 <br/>
 <br/>
 
-## 👀 Technologies to Learn
+## 👀 Future Plans
 <a href="#">
   <img alt="Blazor" src="https://img.shields.io/badge/Blazor-582C8B?style=for-the-badge&logo=blazor&logoColor=white"/>
   <img alt='.NET MAUI' src="https://img.shields.io/badge/.NET%20MAUI-2D4A90?style=for-the-badge&logo=.net"/> 
