@@ -1,57 +1,33 @@
 <!-- Header -->
-### /*===========================================================
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/FJGcHpc5RLMAAAAd/cat-meme-cats-love.gif"  />
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=2000&color=00FF41&center=true&vCenter=true&width=890&separator=%3C&lines=%F0%9F%A6%88+I+am+a+software+engineer%2C+and+I+turn+ideas.toReality(%E0%B6%9E);)](https://git.io/typing-svg)
+</div>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23039B5F&size=25&vCenter=true&width=950&height=40&lines=%C2%A0%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB+I+am+a+software+engineer%2C+and+I+turn+ideas.ToReality()%CD%BE)](https://git.io/typing-svg)
-### ===========================================================*/
+<div align="center" width="300px">
 
-<br/>
+  ## 🦈 Here are a few technologies I’ve been working with recently:
 
-## 🎿 Skill Set
-<a href="#">
-  <!-- .NET Stack -->
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img alt="C# / CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img alt="WPF" src="https://img.shields.io/badge/WPF-0D82F7?style=for-the-badge&logo=xaml&logoColor=white"/>
-  <img alt="Wix Toolset" src="https://img.shields.io/badge/Wix%20Toolset-EE8D1D?style=for-the-badge&logo=wix&logoColor=white"/>
-  <img alt="MSSQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-  
-  <!-- Web Dev Specific -->
-  <img alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS 3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  
-  <!-- Version Control and CLI -->
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
-  
-  <!-- Design Tools -->
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
-</a>
 
-<br/>
-<br/>
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![OraclePLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+  ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![JUnit](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
-## 🧠⁺⁺ Currently Learning
-<a href="#">
-  <img alt='ASP.NET' src="https://img.shields.io/badge/ASPNET-ASPNET?style=for-the-badge&logo=.net&color=5C2D91"/> 
-  <img alt='Entity Framework Core' src="https://img.shields.io/badge/-Entity_Framework_Core-fff?style=for-the-badge&logo=Microsoft&logoColor=0078D7&color=6A4097"/> 
-  <img alt="NUnit" src="https://img.shields.io/badge/ⓝ%20Nunit-00580C?style=for-the-badge"/>
-  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img alt="SASS / SCSS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-</a>
+</div>
 
-<br/>
-<br/>
-
-## 👀 Future Plans
-<a href="#">
-  <img alt="Blazor" src="https://img.shields.io/badge/Blazor-582C8B?style=for-the-badge&logo=blazor&logoColor=white"/>
-  <img alt='.NET MAUI' src="https://img.shields.io/badge/.NET%20MAUI-2D4A90?style=for-the-badge&logo=.net"/> 
-  <img alt="Three.js" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white"/>
-</a>
-
+<!-- Badges Found Here: https://github.com/Ileriayo/markdown-badges -->
 <!-- Shields Found Here: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
