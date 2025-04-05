@@ -2,7 +2,11 @@
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/FJGcHpc5RLMAAAAd/cat-meme-cats-love.gif"  />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=2000&color=00FF41&center=true&vCenter=true&width=890&separator=%3C&lines=%F0%9F%A6%88+I+am+a+software+engineer%2C+and+I+turn+ideas.toReality(%E0%B6%9E);)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=00FF41&background=2E2831&center=true&multiline=true&width=890&height=40&separator=%3C&lines=%F0%9F%A6%88+I+am+a+software+engineer%2C+and+I+turn+ideas.toReality(%E0%B6%9E);)](https://git.io/typing-svg)
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=00FF41&background=2E2831&center=true&multiline=true&width=890&height=40&separator=%3C&lines=%F0%9F%A6%88+I+am+a+software+engineer%2C+and+I+turn+ideas.toReality(%E0%B6%9E);)](https://git.io/typing-svg)
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=00FF41&background=2E2831&center=true&multiline=true&width=890&height=40&separator=%3C&lines=%F0%9F%A6%88+I+am+a+software+engineer%2C+and+I+turn+ideas.toReality(%E0%B6%9E);)](https://git.io/typing-svg)
 </div>
 
 <br/>
